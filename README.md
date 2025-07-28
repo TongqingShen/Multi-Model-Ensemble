@@ -2,12 +2,12 @@
 
 This repository contains the official code of the article:
 
-> **Enhancing Climate Projections via Machine Learning: Multi-Model Ensemble of Precipitation and Temperature in the Source Region of the Yellow River**  
-> *Journal of Hydrology*, Vol. 662, 133945, 2025  
->  
-> **Authors**: Qi Ju, Jinyu Wu, Tongqing Shen, Yuying Wang, Huimin Cai, Jin Jin, Peng Jiang, Xinyu Chen, Yuxuan Du  
->  
-> **DOI**: [10.1016/j.jhydrol.2025.133945](https://doi.org/10.1016/j.jhydrol.2025.133945)
+ **Enhancing Climate Projections via Machine Learning: Multi-Model Ensemble of Precipitation and Temperature in the Source Region of the Yellow River**  
+ *Journal of Hydrology*, Vol. 662, 133945, 2025  
+  
+ **Authors**: Qi Ju, Jinyu Wu, Tongqing Shen, Yuying Wang, Huimin Cai, Jin Jin, Peng Jiang, Xinyu Chen, Yuxuan Du  
+  
+ **DOI**: [10.1016/j.jhydrol.2025.133945](https://doi.org/10.1016/j.jhydrol.2025.133945)
 
 ---
 
@@ -40,10 +40,10 @@ Each script reads GCM data, performs normalization, trains ensemble models, appl
 
 If you use this code or data in your research, please cite:
 
-> Ju, Q., Wu, J., Shen, T., Wang, Y., Cai, H., Jin, J., Jiang, P., Chen, X., Du, Y., 2025.  
-> *Enhancing climate projections via machine learning: Multi-model ensemble of precipitation and temperature in the source region of the Yellow River*.  
-> *Journal of Hydrology* 662, 133945.  
-> [https://doi.org/10.1016/j.jhydrol.2025.133945](https://doi.org/10.1016/j.jhydrol.2025.133945)
+ Ju, Q., Wu, J., Shen, T., Wang, Y., Cai, H., Jin, J., Jiang, P., Chen, X., Du, Y., 2025.  
+ *Enhancing climate projections via machine learning: Multi-model ensemble of precipitation and temperature in the source region of the Yellow River*.  
+ *Journal of Hydrology* 662, 133945.  
+ [https://doi.org/10.1016/j.jhydrol.2025.133945](https://doi.org/10.1016/j.jhydrol.2025.133945)
 
 ---
 
